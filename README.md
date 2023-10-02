@@ -7,7 +7,11 @@ Dumb idea but I ran out of time
 
 Time spent: 1 day (didn't focus enough on this)
 
-Game link:
+Game link(s):
+* https://alzhu1.itch.io/cat-games
+* https://ldjam.com/events/ludum-dare/54/cat-games
+
+Credits below:
 
 Tileset: https://pixelfrog-assets.itch.io/pixel-adventure-1
 
